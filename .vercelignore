@@ -1,0 +1,9 @@
+.git
+.gitignore
+README.md
+backend/
+scripts/
+api_output.json
+.env
+.env.local
+node_modules
