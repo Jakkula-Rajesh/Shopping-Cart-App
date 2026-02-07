@@ -1,0 +1,237 @@
+{
+  "start": "2026-02-07T07:47:52.522Z",
+  "steps": {
+    "health": {
+      "status": "Server is running"
+    },
+    "items": [
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7bf",
+        "name": "Laptop",
+        "status": "active",
+        "price": 999.99,
+        "description": "High-performance laptop with 16GB RAM",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.376Z",
+        "updatedAt": "2026-02-07T04:44:01.376Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c0",
+        "name": "Smartphone",
+        "status": "active",
+        "price": 699.99,
+        "description": "Latest 5G smartphone with amazing camera",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c1",
+        "name": "Headphones",
+        "status": "active",
+        "price": 199.99,
+        "description": "Noise-cancelling wireless headphones",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c2",
+        "name": "Tablet",
+        "status": "active",
+        "price": 449.99,
+        "description": "10-inch display tablet for productivity",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c3",
+        "name": "Smart Watch",
+        "status": "active",
+        "price": 299.99,
+        "description": "Fitness tracking and notification smartwatch",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c4",
+        "name": "Camera",
+        "status": "active",
+        "price": 1299.99,
+        "description": "Professional DSLR camera with 4K video",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c5",
+        "name": "Keyboard",
+        "status": "active",
+        "price": 79.99,
+        "description": "Mechanical RGB gaming keyboard",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c6",
+        "name": "Monitor",
+        "status": "active",
+        "price": 399.99,
+        "description": "27-inch 4K UHD monitor",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c7",
+        "name": "Mouse",
+        "status": "active",
+        "price": 49.99,
+        "description": "Wireless ergonomic mouse",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      },
+      {
+        "image": "https://via.placeholder.com/200?text=Item",
+        "_id": "6986c31107f564018f99c7c8",
+        "name": "Speaker",
+        "status": "active",
+        "price": 149.99,
+        "description": "Portable Bluetooth speaker with bass boost",
+        "__v": 0,
+        "createdAt": "2026-02-07T04:44:01.377Z",
+        "updatedAt": "2026-02-07T04:44:01.377Z"
+      }
+    ],
+    "create": {
+      "message": "User created successfully",
+      "userId": "6986ee2826f12becdb3e769b"
+    },
+    "login": {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTg2ZWUyODI2ZjEyYmVjZGIzZTc2OWIiLCJpYXQiOjE3NzA0NTA0NzJ9.PeVzEjoNHxas1erJ5lLaZ14-kvt_mD79hrdKgwpBEyw",
+      "userId": "6986ee2826f12becdb3e769b",
+      "username": "tester1234"
+    },
+    "addToCart": {
+      "message": "Item added to cart",
+      "cart": {
+        "userId": "6986ee2826f12becdb3e769b",
+        "items": [
+          {
+            "itemId": {
+              "image": "https://via.placeholder.com/200?text=Item",
+              "_id": "6986c31107f564018f99c7bf",
+              "name": "Laptop",
+              "status": "active",
+              "price": 999.99,
+              "description": "High-performance laptop with 16GB RAM",
+              "__v": 0,
+              "createdAt": "2026-02-07T04:44:01.376Z",
+              "updatedAt": "2026-02-07T04:44:01.376Z"
+            },
+            "quantity": 1,
+            "_id": "6986ee2826f12becdb3e76a3"
+          }
+        ],
+        "status": "active",
+        "_id": "6986ee2826f12becdb3e76a2",
+        "createdAt": "2026-02-07T07:47:52.837Z",
+        "__v": 0
+      }
+    },
+    "cart": {
+      "_id": "6986ee2826f12becdb3e76a2",
+      "userId": "6986ee2826f12becdb3e769b",
+      "items": [
+        {
+          "itemId": {
+            "image": "https://via.placeholder.com/200?text=Item",
+            "_id": "6986c31107f564018f99c7bf",
+            "name": "Laptop",
+            "status": "active",
+            "price": 999.99,
+            "description": "High-performance laptop with 16GB RAM",
+            "__v": 0,
+            "createdAt": "2026-02-07T04:44:01.376Z",
+            "updatedAt": "2026-02-07T04:44:01.376Z"
+          },
+          "quantity": 1,
+          "_id": "6986ee2826f12becdb3e76a3"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-02-07T07:47:52.837Z",
+      "__v": 0
+    },
+    "checkout": {
+      "message": "Order created successfully",
+      "order": {
+        "userId": "6986ee2826f12becdb3e769b",
+        "cartId": "6986ee2826f12becdb3e76a2",
+        "items": [
+          {
+            "itemId": {
+              "image": "https://via.placeholder.com/200?text=Item",
+              "_id": "6986c31107f564018f99c7bf",
+              "name": "Laptop",
+              "status": "active",
+              "price": 999.99,
+              "description": "High-performance laptop with 16GB RAM",
+              "__v": 0,
+              "createdAt": "2026-02-07T04:44:01.376Z",
+              "updatedAt": "2026-02-07T04:44:01.376Z"
+            },
+            "quantity": 1,
+            "_id": "6986ee2826f12becdb3e76a3"
+          }
+        ],
+        "totalPrice": 999.99,
+        "status": "completed",
+        "_id": "6986ee2826f12becdb3e76ae",
+        "createdAt": "2026-02-07T07:47:52.874Z",
+        "__v": 0
+      }
+    },
+    "orders": [
+      {
+        "_id": "6986ee2826f12becdb3e76ae",
+        "userId": "6986ee2826f12becdb3e769b",
+        "cartId": "6986ee2826f12becdb3e76a2",
+        "items": [
+          {
+            "itemId": {
+              "image": "https://via.placeholder.com/200?text=Item",
+              "_id": "6986c31107f564018f99c7bf",
+              "name": "Laptop",
+              "status": "active",
+              "price": 999.99,
+              "description": "High-performance laptop with 16GB RAM",
+              "__v": 0,
+              "createdAt": "2026-02-07T04:44:01.376Z",
+              "updatedAt": "2026-02-07T04:44:01.376Z"
+            },
+            "quantity": 1,
+            "_id": "6986ee2826f12becdb3e76a3"
+          }
+        ],
+        "totalPrice": 999.99,
+        "status": "completed",
+        "createdAt": "2026-02-07T07:47:52.874Z",
+        "__v": 0
+      }
+    ]
+  }
+}
